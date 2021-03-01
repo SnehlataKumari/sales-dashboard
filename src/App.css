@@ -1,7 +1,17 @@
 .App {
-  text-align: center;
+  /* text-align: center; */
+  /* display:flex; */
+  justify-content: center;
 }
 
+.chart {
+  width: 720px;
+  margin: auto;
+}
+
+.table {
+  margin-top: 80px;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
